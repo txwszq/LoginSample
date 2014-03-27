@@ -1,0 +1,132 @@
+.left-inner-addon
+{
+    position: relative;
+}
+.left-inner-addon input
+{
+    padding-left: 40px;
+}
+.left-inner-addon i
+{
+    position: absolute;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+.app-loader
+{
+    margin-left: 45%;
+margin-top: 25%;
+    }
+.right-inner-addon
+{
+    position: relative;
+}
+.right-inner-addon input
+{
+    padding-right: 40px;
+}
+.right-inner-addon i
+{
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+.btn
+{
+    background-color: #2fa2c3;
+    border-color: #2fa2c3;
+}
+
+.btn:hover
+{
+    background-color: #2fa2c3;
+    border-color: #666666;
+}
+.btn-block
+{
+    width: 104px;
+}
+
+.modal-footer
+{
+    border-top: 0px;
+}
+.header
+{
+    color: #2fa2c3;
+    font-weight: bold;
+}
+.subHeader
+{
+    color: #666666;
+    font-size: large;
+}
+input[type=text]
+{
+    font-family: Helvetica Neue Light !important;
+}
+
+.form-control::-webkit-input-placeholder
+{
+    font-family: Helvetica Neue Light !important;
+}
+
+.forgotPassword
+{
+    font-family: Helvetica Neue Light;
+    font-size: 12px;
+    letter-spacing: -0.12px;
+    color: #666666;
+    margin-top: 20px;
+}
+.text-center
+{
+    margin-bottom: 34px;
+    margin-top: 20px;
+}
+.modal-header
+{
+    padding-bottom: 0px;
+    margin-bottom: 34px;
+    padding-top: 0px;
+}
+.modal-body
+{
+    padding-top: 0px;
+}
+.Icon
+{
+    color: #D8D8D8;
+}
+.form-group
+{
+}
+.buttonDiv
+{
+    margin-top: 6px;
+}
+.modal-content
+{
+    height: 401px;
+}
+@media screen and (min-width: 768px)
+{
+    .modal-dialog
+    {
+        width: 400px;
+    }
+}
+.help-block
+{
+    margin-bottom: 0px;
+}
+.glyphicon
+{
+    top: -5px !important;
+    right: -25px !important;
+}
+.left-inner-addon
+{
+    min-height: 70px;
+}
